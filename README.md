@@ -1,4 +1,4 @@
-# go-f-ur-brain
+# go-fbrain
 
 I made this project because _"why not?"_.
 For the hee hee haa haa funnies.
