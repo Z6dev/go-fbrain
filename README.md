@@ -1,5 +1,7 @@
 # Go Brainfuck
 
-This project is part of my blog post about _writting a Brainfuck interpreter in Go_. Read about it [here](https://mihajlonesic.gitlab.io/archive/brainfuck-in-go/).
+I made this project because _"why not?"_.
+For the hee hee haa haa funnies.
+read about it at [Temples Of man a.k.a my website](https://z6dev.github.io/Temples-Of-Man#projects)
 
-![](https://i.imgur.com/Ojvw8kz.png)
+![](https://i.imgur.com/RQXBcHq.png)
