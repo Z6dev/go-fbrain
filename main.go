@@ -29,8 +29,7 @@ func execute(code string) {
 
 	executeWith(program, code)
 
-	fmt.Println()
-	fmt.Println("(END)")
+	fmt.Println("(END OF PROGRAM)")
 }
 
 func executeWith(program *Program, code string) {
